@@ -1,0 +1,6 @@
+﻿Domain Code,Domain,Area Code (FAO),Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description,Note
+"OA","Annual population","351","China","511","Total Population - Both sexes","3010","Population - Est. & Proj.","2008","2008","1000 persons","1383985.631","A","Aggregate, may include official, semi-official, estimated or calculated data",""
+"OA","Annual population","96","China, Hong Kong SAR","511","Total Population - Both sexes","3010","Population - Est. & Proj.","2008","2008","1000 persons","6881.863","X","International reliable sources",""
+"OA","Annual population","128","China, Macao SAR","511","Total Population - Both sexes","3010","Population - Est. & Proj.","2008","2008","1000 persons","515.239","X","International reliable sources",""
+"OA","Annual population","41","China, mainland","511","Total Population - Both sexes","3010","Population - Est. & Proj.","2008","2008","1000 persons","1353569.484","X","International reliable sources",""
+"OA","Annual population","214","China, Taiwan Province of","511","Total Population - Both sexes","3010","Population - Est. & Proj.","2008","2008","1000 persons","23019.045","X","International reliable sources",""
